@@ -54,7 +54,7 @@ The Python Domain is further Divided into the following sub-domains.
 ### Basic Data Types
 | Problem | Difficulty | Solution Link |
 |---------|------------|---------------|
-| [List Comprehensions](https://www.hackerrank.com/challenges/list-comprehensions) | Easy | |
+| [List Comprehensions](https://www.hackerrank.com/challenges/list-comprehensions) | Easy | [Solution](https://github.com/anishLearnsToCode/hackerrank-python/blob/master/basic-data-types/ListComprehension.py) |
 | [Find the Runner-Up Score](https://www.hackerrank.com/challenges/find-second-maximum-number-in-a-list) | Easy | |
 | [Nested Lists](https://www.hackerrank.com/challenges/nested-list) | Easy | |
 | [Finding The Percentage](https://www.hackerrank.com/challenges/finding-the-percentage) | Easy | |
