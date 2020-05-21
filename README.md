@@ -49,3 +49,14 @@ The Python Domain is further Divided into the following sub-domains.
 | [Loops](https://www.hackerrank.com/challenges/python-loops) | Easy | [Solution](https://github.com/anishLearnsToCode/hackerrank-python/blob/master/introduction/Loops.py)|
 | [Write a Function](https://www.hackerrank.com/challenges/write-a-function) | Medium | [Solution](https://github.com/anishLearnsToCode/hackerrank-python/blob/master/introduction/WriteAFunction.py) |
 | [Print Function](https://www.hackerrank.com/challenges/python-print) | Easy | [Solution](https://github.com/anishLearnsToCode/hackerrank-python/blob/master/introduction/PrintFunction.py) |
+
+
+### Basic Data Types
+| Problem | Difficulty | Solution Link |
+|---------|------------|---------------|
+| [List Comprehensions](https://www.hackerrank.com/challenges/list-comprehensions) | Easy | |
+| [Find the Runner-Up Score](https://www.hackerrank.com/challenges/find-second-maximum-number-in-a-list) | Easy | |
+| [Nested Lists](https://www.hackerrank.com/challenges/nested-list) | Easy | |
+| [Finding The Percentage](https://www.hackerrank.com/challenges/finding-the-percentage) | Easy | |
+| [Lists](https://www.hackerrank.com/challenges/python-lists) | Easy | |
+| [Tuples](https://www.hackerrank.com/challenges/python-tuples) | Easy | |
