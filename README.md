@@ -57,6 +57,25 @@ The Python Domain is further Divided into the following sub-domains.
 | [List Comprehensions](https://www.hackerrank.com/challenges/list-comprehensions) | Easy | [Solution](https://github.com/anishLearnsToCode/hackerrank-python/blob/master/basic-data-types/ListComprehension.py) |
 | [Find the Runner-Up Score](https://www.hackerrank.com/challenges/find-second-maximum-number-in-a-list) | Easy | [Solution](https://github.com/anishLearnsToCode/hackerrank-python/blob/master/basic-data-types/FindTheRunnerUpScore.py) |
 | [Nested Lists](https://www.hackerrank.com/challenges/nested-list) | Easy | [Solution](https://github.com/anishLearnsToCode/hackerrank-python/blob/master/basic-data-types/nested-lists.py) |
-| [Finding The Percentage](https://www.hackerrank.com/challenges/finding-the-percentage) | Easy | [Solution](https://github.com/anishLearnsToCode/hackerrank-python/blob/master/basic-data-types/finding-the-percentage.py) t|
+| [Finding The Percentage](https://www.hackerrank.com/challenges/finding-the-percentage) | Easy | [Solution](https://github.com/anishLearnsToCode/hackerrank-python/blob/master/basic-data-types/finding-the-percentage.py) |
 | [Lists](https://www.hackerrank.com/challenges/python-lists) | Easy | [Solution](https://github.com/anishLearnsToCode/hackerrank-python/blob/master/basic-data-types/Lists.py) |
 | [Tuples](https://www.hackerrank.com/challenges/python-tuples) | Easy | [Solution](https://github.com/anishLearnsToCode/hackerrank-python/blob/master/basic-data-types/tuples.py) |
+
+
+### Strings
+| Problem | Difficulty | Solution Link |
+|---------|------------|---------------|
+| [sWAP cASE](https://www.hackerrank.com/challenges/swap-case) | Easy | |
+| [String Split and Join](https://www.hackerrank.com/challenges/python-string-split-and-join) | Easy | |
+| [What's Your Name](https://www.hackerrank.com/challenges/whats-your-name) | Easy | |
+| [Mutations](https://www.hackerrank.com/challenges/python-mutations) | Easy | |
+| [Find a String](https://www.hackerrank.com/challenges/find-a-string) | Easy | |
+| [String Validators](https://www.hackerrank.com/challenges/string-validators) | Easy | |
+| [Text Alignment](https://www.hackerrank.com/challenges/text-alignment) | Easy | |
+| [Text Wrap](https://www.hackerrank.com/challenges/text-wrap) | Easy | |
+| [Designer Door Mat](https://www.hackerrank.com/challenges/designer-door-mat) | Easy | |
+| [String Formatting](https://www.hackerrank.com/challenges/python-string-formatting) | Easy | |
+| [Alphabet Rangoli](https://www.hackerrank.com/challenges/alphabet-rangoli) | Easy | |
+| [Capatalize!](https://www.hackerrank.com/challenges/capitalize) | Easy | |
+| [The Minion Game](https://www.hackerrank.com/challenges/the-minion-game) | Medium | |
+| [Merge The Tools](https://www.hackerrank.com/challenges/merge-the-tools) | Medium | |
