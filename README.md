@@ -46,6 +46,6 @@ The Python Domain is further Divided into the following sub-domains.
 | [Python If-Else](https://www.hackerrank.com/challenges/py-if-else) | Easy | [Solution](https://github.com/anishLearnsToCode/hackerrank-python/blob/master/introduction/PythonIfElse.py) |
 | [Arithmetic Operators](https://www.hackerrank.com/challenges/python-arithmetic-operators) | Easy | [Solution](https://github.com/anishLearnsToCode/hackerrank-python/blob/master/introduction/ArithmeticOperator.py) |
 | [Python Division](https://www.hackerrank.com/challenges/python-division) | Easy | [Solution](https://github.com/anishLearnsToCode/hackerrank-python/blob/master/introduction/Division.py) |
-| [Loops](https://www.hackerrank.com/challenges/python-loops) | Easy | |
+| [Loops](https://www.hackerrank.com/challenges/python-loops) | Easy | [Solution](https://github.com/anishLearnsToCode/hackerrank-python/blob/master/introduction/Loops.py)|
 | [Write a Function](https://www.hackerrank.com/challenges/write-a-function) | Medium | |
 | [Print Function](https://www.hackerrank.com/challenges/python-print) | Easy | |
