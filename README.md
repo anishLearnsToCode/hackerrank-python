@@ -66,7 +66,7 @@ The Python Domain is further Divided into the following sub-domains.
 | Problem | Difficulty | Solution Link |
 |---------|------------|---------------|
 | [sWAP cASE](https://www.hackerrank.com/challenges/swap-case) | Easy | [Solution](https://github.com/anishLearnsToCode/hackerrank-python/blob/master/strings/swap-case.py) |
-| [String Split and Join](https://www.hackerrank.com/challenges/python-string-split-and-join) | Easy | |
+| [String Split and Join](https://www.hackerrank.com/challenges/python-string-split-and-join) | Easy | [Solution](https://github.com/anishLearnsToCode/hackerrank-python/blob/master/strings/string-split-and-join.py) |
 | [What's Your Name](https://www.hackerrank.com/challenges/whats-your-name) | Easy | |
 | [Mutations](https://www.hackerrank.com/challenges/python-mutations) | Easy | |
 | [Find a String](https://www.hackerrank.com/challenges/find-a-string) | Easy | |
