@@ -86,7 +86,7 @@ The Python Domain is further Divided into the following sub-domains.
 | [Symmetric Difference](https://www.hackerrank.com/challenges/symmetric-difference) | Easy | [Solution](https://github.com/anishLearnsToCode/hackerrank-python/blob/master/sets/symmetric-difference.py) |
 | [Set .add()](https://www.hackerrank.com/challenges/py-set-add) | Easy | [Solution](https://github.com/anishLearnsToCode/hackerrank-python/blob/master/sets/set-add.py) |
 | [Set .discard() .remove() & .pop()](https://www.hackerrank.com/challenges/py-set-discard-remove-pop) | Easy | [Solution](https://github.com/anishLearnsToCode/hackerrank-python/blob/master/sets/set-disacard-remove-pop.py) |
-| [Set .union() Operation](https://www.hackerrank.com/challenges/py-set-union) | Easy | |
+| [Set .union() Operation](https://www.hackerrank.com/challenges/py-set-union) | Easy | [Solution](https://github.com/anishLearnsToCode/hackerrank-python/blob/master/sets/set-union.py) |
 | [Set .intersection() Operation](https://www.hackerrank.com/challenges/py-set-intersection-operation) | Easy | |
 | [Set .difference() Operation](https://www.hackerrank.com/challenges/py-set-difference-operation) | Easy | |
 | [Set .symmetric_difference() Operation](https://www.hackerrank.com/challenges/py-set-symmetric-difference-operation) | Easy | |
