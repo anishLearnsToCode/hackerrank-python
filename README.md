@@ -94,3 +94,15 @@ The Python Domain is further Divided into the following sub-domains.
 | [Tha Captain's Room](https://www.hackerrank.com/challenges/py-the-captains-room) | Easy | [Solution](https://github.com/anishLearnsToCode/hackerrank-python/blob/master/sets/the-captains-room.py) |
 | [Check Subset](https://www.hackerrank.com/challenges/py-check-subset) | Easy | [Solution](https://github.com/anishLearnsToCode/hackerrank-python/blob/master/sets/check-subset.py) |
 | [Check Strict Superset](https://www.hackerrank.com/challenges/py-check-strict-superset) | Easy | [Solution](https://github.com/anishLearnsToCode/hackerrank-python/blob/master/sets/is-strict-superset.py) |
+
+
+### Math
+| Problem | Difficulty | Solution Link |
+|---------|------------|---------------|
+| [Polar Coordinates](https://www.hackerrank.com/challenges/polar-coordinates) | Easy | |
+| [Find Angle MBC](https://www.hackerrank.com/challenges/find-angle) | Medium | |
+| [Triangle Quest 2](https://www.hackerrank.com/challenges/triangle-quest-2) | Medium | |
+| [Mod Divmod](https://www.hackerrank.com/challenges/python-mod-divmod) | Easy | |
+| [Power - Mod Power](https://www.hackerrank.com/challenges/python-power-mod-power) | Easy | |
+| [Integers Come in all sizes](https://www.hackerrank.com/challenges/python-integers-come-in-all-sizes) | Easy | |
+| [Triangle Quest](https://www.hackerrank.com/challenges/python-quest-1) | Easy | |
