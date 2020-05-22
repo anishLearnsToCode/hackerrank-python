@@ -84,7 +84,7 @@ The Python Domain is further Divided into the following sub-domains.
 | [Introduction to Sets](https://www.hackerrank.com/challenges/py-introduction-to-sets) | Easy | [Solution](https://github.com/anishLearnsToCode/hackerrank-python/blob/master/sets/introduction-to-sets.py) |
 | [No Idea!](https://www.hackerrank.com/challenges/no-idea) | Medium | [Solution](https://github.com/anishLearnsToCode/hackerrank-python/blob/master/sets/no-idea.py) |
 | [Symmetric Difference](https://www.hackerrank.com/challenges/symmetric-difference) | Easy | [Solution](https://github.com/anishLearnsToCode/hackerrank-python/blob/master/sets/symmetric-difference.py) |
-| [Set .add()](https://www.hackerrank.com/challenges/py-set-add) | Easy | |
+| [Set .add()](https://www.hackerrank.com/challenges/py-set-add) | Easy | [Solution](https://github.com/anishLearnsToCode/hackerrank-python/blob/master/sets/set-add.py) |
 | [Set .discard() .remove() & .pop()](https://www.hackerrank.com/challenges/py-set-discard-remove-pop) | Easy | |
 | [Set .union() Operation](https://www.hackerrank.com/challenges/py-set-union) | Easy | |
 | [Set .intersection() Operation](https://www.hackerrank.com/challenges/py-set-intersection-operation) | Easy | |
