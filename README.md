@@ -100,7 +100,7 @@ The Python Domain is further Divided into the following sub-domains.
 | Problem | Difficulty | Solution Link |
 |---------|------------|---------------|
 | [Polar Coordinates](https://www.hackerrank.com/challenges/polar-coordinates) | Easy | [Solution](https://github.com/anishLearnsToCode/hackerrank-python/blob/master/math/polar-coordinates.py) |
-| [Find Angle MBC](https://www.hackerrank.com/challenges/find-angle) | Medium | |
+| [Find Angle MBC](https://www.hackerrank.com/challenges/find-angle) | Medium | [Solution](https://github.com/anishLearnsToCode/hackerrank-python/blob/master/math/find-angle-mbc.py) |
 | [Triangle Quest 2](https://www.hackerrank.com/challenges/triangle-quest-2) | Medium | [Solution](https://github.com/anishLearnsToCode/hackerrank-python/blob/master/math/triangle-quest-2.py) |
 | [Mod Divmod](https://www.hackerrank.com/challenges/python-mod-divmod) | Easy | [Solution](https://github.com/anishLearnsToCode/hackerrank-python/blob/master/math/mod-divmod.py) |
 | [Power - Mod Power](https://www.hackerrank.com/challenges/python-power-mod-power) | Easy | [Solution](https://github.com/anishLearnsToCode/hackerrank-python/blob/master/math/power-mod-power.py) |
