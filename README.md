@@ -106,3 +106,15 @@ The Python Domain is further Divided into the following sub-domains.
 | [Power - Mod Power](https://www.hackerrank.com/challenges/python-power-mod-power) | Easy | [Solution](https://github.com/anishLearnsToCode/hackerrank-python/blob/master/math/power-mod-power.py) |
 | [Integers Come in all sizes](https://www.hackerrank.com/challenges/python-integers-come-in-all-sizes) | Easy | [Solution](https://github.com/anishLearnsToCode/hackerrank-python/blob/master/math/integers-come-in-all-sizes.py) |
 | [Triangle Quest](https://www.hackerrank.com/challenges/python-quest-1) | Easy | [Solution](https://github.com/anishLearnsToCode/hackerrank-python/blob/master/math/triangle-quest.py) |
+
+
+### Itertools
+| Problem | Difficulty | Solution Link |
+|---------|------------|---------------|
+| [itertools.product()](https://www.hackerrank.com/challenges/itertools-product) | Easy | |
+| [itertools.permutations()](https://www.hackerrank.com/challenges/itertools-permutations) | Easy | |
+| [itertools.combinations()](https://www.hackerrank.com/challenges/itertools-combinations) | Easy | |
+| [itertools.combinations_with_replacement()](https://www.hackerrank.com/challenges/itertools-combinations-with-replacement) | Easy | |
+| [Compress the String!](https://www.hackerrank.com/challenges/compress-the-string) | Medium | |
+| [Iterables & Iterators](https://www.hackerrank.com/challenges/iterables-and-iterators) | Medium | |
+| [Maximize It!](https://www.hackerrank.com/challenges/maximize-it) | Hard | |
