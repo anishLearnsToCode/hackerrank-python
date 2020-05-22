@@ -105,4 +105,4 @@ The Python Domain is further Divided into the following sub-domains.
 | [Mod Divmod](https://www.hackerrank.com/challenges/python-mod-divmod) | Easy | [Solution](https://github.com/anishLearnsToCode/hackerrank-python/blob/master/math/mod-divmod.py) |
 | [Power - Mod Power](https://www.hackerrank.com/challenges/python-power-mod-power) | Easy | [Solution](https://github.com/anishLearnsToCode/hackerrank-python/blob/master/math/power-mod-power.py) |
 | [Integers Come in all sizes](https://www.hackerrank.com/challenges/python-integers-come-in-all-sizes) | Easy | [Solution](https://github.com/anishLearnsToCode/hackerrank-python/blob/master/math/integers-come-in-all-sizes.py) |
-| [Triangle Quest](https://www.hackerrank.com/challenges/python-quest-1) | Easy | |
+| [Triangle Quest](https://www.hackerrank.com/challenges/python-quest-1) | Easy | [Solution](https://github.com/anishLearnsToCode/hackerrank-python/blob/master/math/triangle-quest.py) |
