@@ -82,7 +82,7 @@ The Python Domain is further Divided into the following sub-domains.
 | Problem | Difficulty | Solution Link |
 |---------|------------|---------------|
 | [Introduction to Sets](https://www.hackerrank.com/challenges/py-introduction-to-sets) | Easy | [Solution](https://github.com/anishLearnsToCode/hackerrank-python/blob/master/sets/introduction-to-sets.py) |
-| [No Idea!](https://www.hackerrank.com/challenges/no-idea) | Medium | |
+| [No Idea!](https://www.hackerrank.com/challenges/no-idea) | Medium | [Solution](https://github.com/anishLearnsToCode/hackerrank-python/blob/master/sets/no-idea.py) |
 | [Symmetric Difference](https://www.hackerrank.com/challenges/symmetric-difference) | Easy | |
 | [Set .add()](https://www.hackerrank.com/challenges/py-set-add) | Easy | |
 | [Set .discard() .remove() & .pop()](https://www.hackerrank.com/challenges/py-set-discard-remove-pop) | Easy | |
