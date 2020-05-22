@@ -93,4 +93,4 @@ The Python Domain is further Divided into the following sub-domains.
 | [Set Mutations](https://www.hackerrank.com/challenges/py-set-mutations) | Easy | [Solution](https://github.com/anishLearnsToCode/hackerrank-python/blob/master/sets/set-mutations.py) |
 | [Tha Captain's Room](https://www.hackerrank.com/challenges/py-the-captains-room) | Easy | [Solution](https://github.com/anishLearnsToCode/hackerrank-python/blob/master/sets/the-captains-room.py) |
 | [Check Subset](https://www.hackerrank.com/challenges/py-check-subset) | Easy | [Solution](https://github.com/anishLearnsToCode/hackerrank-python/blob/master/sets/check-subset.py) |
-| [Check Strict Superset](https://www.hackerrank.com/challenges/py-check-strict-superset) | Easy | |
+| [Check Strict Superset](https://www.hackerrank.com/challenges/py-check-strict-superset) | Easy | [Solution](https://github.com/anishLearnsToCode/hackerrank-python/blob/master/sets/is-strict-superset.py) |
