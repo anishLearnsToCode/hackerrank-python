@@ -115,6 +115,6 @@ The Python Domain is further Divided into the following sub-domains.
 | [itertools.permutations()](https://www.hackerrank.com/challenges/itertools-permutations) | Easy | [Solution](https://github.com/anishLearnsToCode/hackerrank-python/blob/master/itertools/itertools-permutations.py) |
 | [itertools.combinations()](https://www.hackerrank.com/challenges/itertools-combinations) | Easy | [Solution](https://github.com/anishLearnsToCode/hackerrank-python/blob/master/itertools/itertools-combinations.py) |
 | [itertools.combinations_with_replacement()](https://www.hackerrank.com/challenges/itertools-combinations-with-replacement) | Easy | [Solution](https://github.com/anishLearnsToCode/hackerrank-python/blob/master/itertools/itertools-combinations-with-replacements.py) |
-| [Compress the String!](https://www.hackerrank.com/challenges/compress-the-string) | Medium | |
+| [Compress the String!](https://www.hackerrank.com/challenges/compress-the-string) | Medium | [Solution](https://github.com/anishLearnsToCode/hackerrank-python/blob/master/itertools/compress-the-string.py) |
 | [Iterables & Iterators](https://www.hackerrank.com/challenges/iterables-and-iterators) | Medium | |
 | [Maximize It!](https://www.hackerrank.com/challenges/maximize-it) | Hard | |
