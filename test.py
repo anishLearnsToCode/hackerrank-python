@@ -1,10 +1,9 @@
-import string
+line, k = input(), int(input())
 
-# print(string.ascii_lowercase)
-# print(string.ascii_letters)
-# print(string.ascii_uppercase)
-#
-# result = '-'.join(string.ascii_lowercase[3:10])
-# print(result[::-1])
+iterator = line.__iter__()
+iterators = zip(*([iterator] * k))
 
-
+for word in iterators:
+    d = dict()
+    result = ''.join([d.setdefault(letter, letter) for letter in word if letter not in d])
+    print(result)
