@@ -123,7 +123,7 @@ The Python Domain is further Divided into the following sub-domains.
 ### Collections
 | Problem | Difficulty | Solution Link |
 |---------|------------|---------------|
-| [collections.Counter()](https://www.hackerrank.com/challenges/collections-counter) | Easy | |
+| [collections.Counter()](https://www.hackerrank.com/challenges/collections-counter) | Easy | [Solution](https://github.com/anishLearnsToCode/hackerrank-python/blob/master/collections/collections-counter.py) |
 | [DefaultDict Tutorial](https://www.hackerrank.com/challenges/defaultdict-tutorial) | Easy | |
 | [Collections.namedTuple()](https://www.hackerrank.com/challenges/py-collections-namedtuple) | Easy | |
 | [Collections.orderedDict()](https://www.hackerrank.com/challenges/py-collections-ordereddict) | Easy | |
