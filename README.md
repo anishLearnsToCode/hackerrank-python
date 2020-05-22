@@ -79,3 +79,21 @@ The Python Domain is further Divided into the following sub-domains.
 | [Capatalize!](https://www.hackerrank.com/challenges/capitalize) | Easy | [Solution](https://github.com/anishLearnsToCode/hackerrank-python/blob/master/strings/capitalize!.py) |
 | [The Minion Game](https://www.hackerrank.com/challenges/the-minion-game) | Medium | [Solution](https://github.com/anishLearnsToCode/hackerrank-python/blob/master/strings/the-minion-game.py) |
 | [Merge The Tools](https://www.hackerrank.com/challenges/merge-the-tools) | Medium | [Solution](https://github.com/anishLearnsToCode/hackerrank-python/blob/master/strings/merge-the-tools.py) |
+
+
+### Sets
+| Problem | Difficulty | Solution Link |
+|---------|------------|---------------|
+| [Introduction to Sets](https://www.hackerrank.com/challenges/py-introduction-to-sets) | Easy | |
+| [No Idea!](https://www.hackerrank.com/challenges/no-idea) | Medium | |
+| [Symmetric Difference](https://www.hackerrank.com/challenges/symmetric-difference) | Easy | |
+| [Set .add()](https://www.hackerrank.com/challenges/py-set-add) | Easy | |
+| [Set .discard() .remove() & .pop()](https://www.hackerrank.com/challenges/py-set-discard-remove-pop) | Easy | |
+| [Set .union() Operation](https://www.hackerrank.com/challenges/py-set-union) | Easy | |
+| [Set .intersection() Operation](https://www.hackerrank.com/challenges/py-set-intersection-operation) | Easy | |
+| [Set .difference() Operation](https://www.hackerrank.com/challenges/py-set-difference-operation) | Easy | |
+| [Set .symmetric_difference() Operation](https://www.hackerrank.com/challenges/py-set-symmetric-difference-operation) | Easy | |
+| [Set Mutations](https://www.hackerrank.com/challenges/py-set-mutations) | Easy | |
+| [Tha Captain's Room](https://www.hackerrank.com/challenges/py-the-captains-room) | Easy | |
+| [Check Subset](https://www.hackerrank.com/challenges/py-check-subset) | Easy | |
+| [Check Strict Superset](https://www.hackerrank.com/challenges/py-check-strict-superset) | Easy | |
