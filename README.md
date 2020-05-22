@@ -88,7 +88,7 @@ The Python Domain is further Divided into the following sub-domains.
 | [Set .discard() .remove() & .pop()](https://www.hackerrank.com/challenges/py-set-discard-remove-pop) | Easy | [Solution](https://github.com/anishLearnsToCode/hackerrank-python/blob/master/sets/set-disacard-remove-pop.py) |
 | [Set .union() Operation](https://www.hackerrank.com/challenges/py-set-union) | Easy | [Solution](https://github.com/anishLearnsToCode/hackerrank-python/blob/master/sets/set-union.py) |
 | [Set .intersection() Operation](https://www.hackerrank.com/challenges/py-set-intersection-operation) | Easy | [Solution](https://github.com/anishLearnsToCode/hackerrank-python/blob/master/sets/set-intersection.py) |
-| [Set .difference() Operation](https://www.hackerrank.com/challenges/py-set-difference-operation) | Easy | |
+| [Set .difference() Operation](https://www.hackerrank.com/challenges/py-set-difference-operation) | Easy | [Solution](https://github.com/anishLearnsToCode/hackerrank-python/blob/master/sets/set-difference.py) |
 | [Set .symmetric_difference() Operation](https://www.hackerrank.com/challenges/py-set-symmetric-difference-operation) | Easy | |
 | [Set Mutations](https://www.hackerrank.com/challenges/py-set-mutations) | Easy | |
 | [Tha Captain's Room](https://www.hackerrank.com/challenges/py-the-captains-room) | Easy | |
