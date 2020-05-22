@@ -73,7 +73,7 @@ The Python Domain is further Divided into the following sub-domains.
 | [String Validators](https://www.hackerrank.com/challenges/string-validators) | Easy | [Solution](https://github.com/anishLearnsToCode/hackerrank-python/blob/master/strings/string-validators.py) |
 | [Text Alignment](https://www.hackerrank.com/challenges/text-alignment) | Easy | [Solution](https://github.com/anishLearnsToCode/hackerrank-python/blob/master/strings/text-alignment.py) |
 | [Text Wrap](https://www.hackerrank.com/challenges/text-wrap) | Easy | [Solution](https://github.com/anishLearnsToCode/hackerrank-python/blob/master/strings/text-wrap.py) |
-| [Designer Door Mat](https://www.hackerrank.com/challenges/designer-door-mat) | Easy | |
+| [Designer Door Mat](https://www.hackerrank.com/challenges/designer-door-mat) | Easy | [Solution](https://github.com/anishLearnsToCode/hackerrank-python/blob/master/strings/designer-door-mat.py) |
 | [String Formatting](https://www.hackerrank.com/challenges/python-string-formatting) | Easy | |
 | [Alphabet Rangoli](https://www.hackerrank.com/challenges/alphabet-rangoli) | Easy | |
 | [Capatalize!](https://www.hackerrank.com/challenges/capitalize) | Easy | |
