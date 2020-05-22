@@ -17,4 +17,3 @@ for i in range(len(rangoli)):
 
 for i in range(len(inverted)):
     print(inverted[i])
-    

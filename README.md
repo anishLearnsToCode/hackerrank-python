@@ -75,7 +75,7 @@ The Python Domain is further Divided into the following sub-domains.
 | [Text Wrap](https://www.hackerrank.com/challenges/text-wrap) | Easy | [Solution](https://github.com/anishLearnsToCode/hackerrank-python/blob/master/strings/text-wrap.py) |
 | [Designer Door Mat](https://www.hackerrank.com/challenges/designer-door-mat) | Easy | [Solution](https://github.com/anishLearnsToCode/hackerrank-python/blob/master/strings/designer-door-mat.py) |
 | [String Formatting](https://www.hackerrank.com/challenges/python-string-formatting) | Easy | [Solution](https://github.com/anishLearnsToCode/hackerrank-python/blob/master/strings/string-formatting.py) |
-| [Alphabet Rangoli](https://www.hackerrank.com/challenges/alphabet-rangoli) | Easy | |
+| [Alphabet Rangoli](https://www.hackerrank.com/challenges/alphabet-rangoli) | Easy | [Solution](https://github.com/anishLearnsToCode/hackerrank-python/blob/master/strings/alphabet-rangoli.py) |
 | [Capatalize!](https://www.hackerrank.com/challenges/capitalize) | Easy | |
 | [The Minion Game](https://www.hackerrank.com/challenges/the-minion-game) | Medium | |
 | [Merge The Tools](https://www.hackerrank.com/challenges/merge-the-tools) | Medium | |
