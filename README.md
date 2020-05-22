@@ -78,4 +78,4 @@ The Python Domain is further Divided into the following sub-domains.
 | [Alphabet Rangoli](https://www.hackerrank.com/challenges/alphabet-rangoli) | Easy | [Solution](https://github.com/anishLearnsToCode/hackerrank-python/blob/master/strings/alphabet-rangoli.py) |
 | [Capatalize!](https://www.hackerrank.com/challenges/capitalize) | Easy | [Solution](https://github.com/anishLearnsToCode/hackerrank-python/blob/master/strings/capitalize!.py) |
 | [The Minion Game](https://www.hackerrank.com/challenges/the-minion-game) | Medium | [Solution](https://github.com/anishLearnsToCode/hackerrank-python/blob/master/strings/the-minion-game.py) |
-| [Merge The Tools](https://www.hackerrank.com/challenges/merge-the-tools) | Medium | |
+| [Merge The Tools](https://www.hackerrank.com/challenges/merge-the-tools) | Medium | [Solution](https://github.com/anishLearnsToCode/hackerrank-python/blob/master/strings/merge-the-tools.py) |

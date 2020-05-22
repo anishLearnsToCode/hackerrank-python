@@ -1,26 +1,9 @@
-def remove_duplicates(word):
-    letters = {}
-    result = ''
-    for letter in word:
-        if letter not in letters:
-            result += letter
-            letters[letter] = True
+line, k = input(), int(input())
 
-    return result
+iterator = line.__iter__()
+iterators = zip(*([iterator] * k))
 
-
-def print_segments(line, k):
-    chunk = len(line) // k
-    words = [line[i: i + chunk] for i in range(0, len(line), chunk)]
-
-    for i in range(len(words)):
-        words[i] = remove_duplicates(words[i])
-
-    for word in words:
-        print(word)
-
-
-line = input()
-k = int(input())
-
-print_segments(line, k)
+for word in iterators:
+    d = dict()
+    result = ''.join([d.setdefault(letter, letter) for letter in word if letter not in d])
+    print(result)
