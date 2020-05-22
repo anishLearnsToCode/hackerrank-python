@@ -1,9 +1,8 @@
-line, k = input(), int(input())
+import itertools
 
-iterator = line.__iter__()
-iterators = zip(*([iterator] * k))
+word = 'aaaabbcaaabddeffg'
 
-for word in iterators:
-    d = dict()
-    result = ''.join([d.setdefault(letter, letter) for letter in word if letter not in d])
-    print(result)
+for entry in itertools.groupby(word):
+    for element in entry[1]:
+        print(element, end='')
+    print()
