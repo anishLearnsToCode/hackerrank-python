@@ -111,7 +111,7 @@ The Python Domain is further Divided into the following sub-domains.
 ### Itertools
 | Problem | Difficulty | Solution Link |
 |---------|------------|---------------|
-| [itertools.product()](https://www.hackerrank.com/challenges/itertools-product) | Easy | |
+| [itertools.product()](https://www.hackerrank.com/challenges/itertools-product) | Easy | [Solution](https://github.com/anishLearnsToCode/hackerrank-python/blob/master/itertools/itertools-product.py) |
 | [itertools.permutations()](https://www.hackerrank.com/challenges/itertools-permutations) | Easy | |
 | [itertools.combinations()](https://www.hackerrank.com/challenges/itertools-combinations) | Easy | |
 | [itertools.combinations_with_replacement()](https://www.hackerrank.com/challenges/itertools-combinations-with-replacement) | Easy | |
