@@ -136,5 +136,5 @@ The Python Domain is further Divided into the following sub-domains.
 ### Date and Time
 | Problem | Difficulty | Solution Link |
 |---------|------------|---------------|
-| [Calender Module](https://www.hackerrank.com/challenges/calendar-module) | Easy | |
+| [Calender Module](https://www.hackerrank.com/challenges/calendar-module) | Easy | [Solution](https://github.com/anishLearnsToCode/hackerrank-python/blob/master/date-and-time/calendar-module.py) |
 | [Time Delta](https://www.hackerrank.com/challenges/python-time-delta) | Medium | |
