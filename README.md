@@ -162,7 +162,7 @@ The Python Domain is further Divided into the following sub-domains.
 | [Python Evaluation](https://www.hackerrank.com/challenges/python-eval) | Easy | [Solution](https://github.com/anishLearnsToCode/hackerrank-python/blob/master/built-ins/python-evaluation.py) |
 | [Athlete Sort](https://www.hackerrank.com/challenges/python-sort-sort) | Medium | [Solution](https://github.com/anishLearnsToCode/hackerrank-python/blob/master/built-ins/athlete-sort.py) |
 | [Any or All](https://www.hackerrank.com/challenges/any-or-all) | Easy | [Solution](https://github.com/anishLearnsToCode/hackerrank-python/blob/master/built-ins/any-or-all.py) |
-| [ginortS](https://www.hackerrank.com/challenges/ginorts) | Medium | |
+| [ginortS](https://www.hackerrank.com/challenges/ginorts) | Medium | [Solution](https://github.com/anishLearnsToCode/hackerrank-python/blob/master/built-ins/ginortS.py) |
 
 
 ### Python Functionals
