@@ -169,7 +169,7 @@ The Python Domain is further Divided into the following sub-domains.
 | Problem | Difficulty | Solution Link |
 |---------|------------|---------------|
 | [Map and Lambda Function](https://www.hackerrank.com/challenges/map-and-lambda-expression) | Easy | [Solution](https://github.com/anishLearnsToCode/hackerrank-python/blob/master/python-functions/map-and-lambda-functions.py) |
-| [Validating Email Address with Filter](https://www.hackerrank.com/challenges/validate-list-of-email-address-with-filter) | Medium | |
+| [Validating Email Address with Filter](https://www.hackerrank.com/challenges/validate-list-of-email-address-with-filter) | Medium | [Solution](https://github.com/anishLearnsToCode/hackerrank-python/blob/master/python-functions/validating-email-addresses.py) |
 | [Reduce Function](https://www.hackerrank.com/challenges/reduce-function) | Medium | |
 
 
