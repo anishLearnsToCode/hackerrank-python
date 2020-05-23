@@ -163,3 +163,17 @@ The Python Domain is further Divided into the following sub-domains.
 | [Athlete Sort](https://www.hackerrank.com/challenges/python-sort-sort) | Medium | |
 | [Any or All](https://www.hackerrank.com/challenges/any-or-all) | Easy | |
 | [ginortS](https://www.hackerrank.com/challenges/ginorts) | Medium | |
+
+
+### Python Functionals
+| Problem | Difficulty | Solution Link |
+|---------|------------|---------------|
+| [Map and Lambda Function](https://www.hackerrank.com/challenges/map-and-lambda-expression) | Easy | |
+| [Validating Email Address with Filter](https://www.hackerrank.com/challenges/validate-list-of-email-address-with-filter) | Medium | |
+| [Reduce Function](https://www.hackerrank.com/challenges/reduce-function) | Medium | |
+
+
+### Regex and Parsing
+### Python Functionals
+| Problem | Difficulty | Solution Link |
+|---------|------------|---------------|
