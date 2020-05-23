@@ -157,7 +157,7 @@ The Python Domain is further Divided into the following sub-domains.
 ### Built Ins
 | Problem | Difficulty | Solution Link |
 |---------|------------|---------------|
-| [Zipped!](https://www.hackerrank.com/challenges/zipped) | Easy | |
+| [Zipped!](https://www.hackerrank.com/challenges/zipped) | Easy | [Solution](https://github.com/anishLearnsToCode/hackerrank-python/blob/master/built-ins/zipped.py) |
 | [Input()](https://www.hackerrank.com/challenges/input) | Easy | |
 | [Python Evaluation](https://www.hackerrank.com/challenges/python-eval) | Easy | |
 | [Athlete Sort](https://www.hackerrank.com/challenges/python-sort-sort) | Medium | |
