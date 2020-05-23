@@ -138,3 +138,17 @@ The Python Domain is further Divided into the following sub-domains.
 |---------|------------|---------------|
 | [Calender Module](https://www.hackerrank.com/challenges/calendar-module) | Easy | [Solution](https://github.com/anishLearnsToCode/hackerrank-python/blob/master/date-and-time/calendar-module.py) |
 | [Time Delta](https://www.hackerrank.com/challenges/python-time-delta) | Medium | [Solution](https://github.com/anishLearnsToCode/hackerrank-python/blob/master/date-and-time/time-delta.py) |
+
+
+### Errors and Exceptions
+| Problem | Difficulty | Solution Link |
+|---------|------------|---------------|
+| [Exceptions](https://www.hackerrank.com/challenges/exceptions) | Easy | |
+| [Incorrect Regex](https://www.hackerrank.com/challenges/incorrect-regex) | Easy | |
+
+
+### Classes
+| Problem | Difficulty | Solution Link |
+|---------|------------|---------------|
+| [Class 2 - Fidn the Torsional Angle](https://www.hackerrank.com/challenges/class-2-find-the-torsional-angle) | Easy | |
+| [Classes: Dealing with Complex Numbers](https://www.hackerrank.com/challenges/class-1-dealing-with-complex-numbers) | Medium | |
