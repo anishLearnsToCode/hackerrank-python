@@ -160,7 +160,7 @@ The Python Domain is further Divided into the following sub-domains.
 | [Zipped!](https://www.hackerrank.com/challenges/zipped) | Easy | [Solution](https://github.com/anishLearnsToCode/hackerrank-python/blob/master/built-ins/zipped.py) |
 | [Input()](https://www.hackerrank.com/challenges/input) | Easy | [Solution](https://github.com/anishLearnsToCode/hackerrank-python/blob/master/built-ins/input.py) |
 | [Python Evaluation](https://www.hackerrank.com/challenges/python-eval) | Easy | [Solution](https://github.com/anishLearnsToCode/hackerrank-python/blob/master/built-ins/python-evaluation.py) |
-| [Athlete Sort](https://www.hackerrank.com/challenges/python-sort-sort) | Medium | |
+| [Athlete Sort](https://www.hackerrank.com/challenges/python-sort-sort) | Medium | [Solution](https://github.com/anishLearnsToCode/hackerrank-python/blob/master/built-ins/athlete-sort.py) |
 | [Any or All](https://www.hackerrank.com/challenges/any-or-all) | Easy | |
 | [ginortS](https://www.hackerrank.com/challenges/ginorts) | Medium | |
 
