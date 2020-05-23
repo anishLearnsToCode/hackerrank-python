@@ -131,3 +131,10 @@ The Python Domain is further Divided into the following sub-domains.
 | [Collections.dequeue()](https://www.hackerrank.com/challenges/py-collections-deque) | Easy | [Solution](https://github.com/anishLearnsToCode/hackerrank-python/blob/master/collections/collections-dequeue.py) |
 | [Company Logo](https://www.hackerrank.com/challenges/most-commons) | Medium | [Solution](https://github.com/anishLearnsToCode/hackerrank-python/blob/master/collections/company-logo.py) |
 | [Piling Up!](https://www.hackerrank.com/challenges/piling-up) | Medium | [Solution](https://github.com/anishLearnsToCode/hackerrank-python/blob/master/collections/piling-up.py) |
+
+
+### Date and Time
+| Problem | Difficulty | Solution Link |
+|---------|------------|---------------|
+| [Calender Module](https://www.hackerrank.com/challenges/calendar-module) | Easy | |
+| [Time Delta](https://www.hackerrank.com/challenges/python-time-delta) | Medium | |
