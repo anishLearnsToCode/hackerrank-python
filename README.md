@@ -128,6 +128,6 @@ The Python Domain is further Divided into the following sub-domains.
 | [Collections.namedTuple()](https://www.hackerrank.com/challenges/py-collections-namedtuple) | Easy | [Solution](https://github.com/anishLearnsToCode/hackerrank-python/blob/master/collections/collections-named-tuple.py) |
 | [Collections.orderedDict()](https://www.hackerrank.com/challenges/py-collections-ordereddict) | Easy | [Solution](https://github.com/anishLearnsToCode/hackerrank-python/blob/master/collections/collections-ordered-dict.py) |
 | [Word Order](https://www.hackerrank.com/challenges/word-order) | Medium | [Solution](https://github.com/anishLearnsToCode/hackerrank-python/blob/master/collections/word-order.py) |
-| [Collections.dequeue()](https://www.hackerrank.com/challenges/py-collections-deque) | Easy | |
+| [Collections.dequeue()](https://www.hackerrank.com/challenges/py-collections-deque) | Easy | [Solution](https://github.com/anishLearnsToCode/hackerrank-python/blob/master/collections/collections-dequeue.py) |
 | [Company Logo](https://www.hackerrank.com/challenges/most-commons) | Medium | |
 | [Piling Up!](https://www.hackerrank.com/challenges/piling-up) | Medium | |
