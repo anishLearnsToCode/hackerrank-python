@@ -152,3 +152,14 @@ The Python Domain is further Divided into the following sub-domains.
 |---------|------------|---------------|
 | [Class 2 - Fidn the Torsional Angle](https://www.hackerrank.com/challenges/class-2-find-the-torsional-angle) | Easy | |
 | [Classes: Dealing with Complex Numbers](https://www.hackerrank.com/challenges/class-1-dealing-with-complex-numbers) | Medium | |
+
+
+### Built Ins
+| Problem | Difficulty | Solution Link |
+|---------|------------|---------------|
+| [Zipped!](https://www.hackerrank.com/challenges/zipped) | Easy | |
+| [Input()](https://www.hackerrank.com/challenges/input) | Easy | |
+| [Python Evaluation](https://www.hackerrank.com/challenges/python-eval) | Easy | |
+| [Athlete Sort](https://www.hackerrank.com/challenges/python-sort-sort) | Medium | |
+| [Any or All](https://www.hackerrank.com/challenges/any-or-all) | Easy | |
+| [ginortS](https://www.hackerrank.com/challenges/ginorts) | Medium | |
