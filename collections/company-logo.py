@@ -1,3 +1,5 @@
+# https://www.hackerrank.com/challenges/most-commons/problem
+
 import collections
 
 name = sorted(input())
