@@ -150,7 +150,7 @@ The Python Domain is further Divided into the following sub-domains.
 ### Classes
 | Problem | Difficulty | Solution Link |
 |---------|------------|---------------|
-| [Class 2 - Fidn the Torsional Angle](https://www.hackerrank.com/challenges/class-2-find-the-torsional-angle) | Easy | |
+| [Class 2 - Find the Torsional Angle](https://www.hackerrank.com/challenges/class-2-find-the-torsional-angle) | Easy | |
 | [Classes: Dealing with Complex Numbers](https://www.hackerrank.com/challenges/class-1-dealing-with-complex-numbers) | Medium | |
 
 
