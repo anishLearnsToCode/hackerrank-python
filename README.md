@@ -144,7 +144,7 @@ The Python Domain is further Divided into the following sub-domains.
 | Problem | Difficulty | Solution Link |
 |---------|------------|---------------|
 | [Exceptions](https://www.hackerrank.com/challenges/exceptions) | Easy | [Solution](https://github.com/anishLearnsToCode/hackerrank-python/blob/master/errors-and-exceptions/exceptions.py)  |
-| [Incorrect Regex](https://www.hackerrank.com/challenges/incorrect-regex) | Easy | |
+| [Incorrect Regex](https://www.hackerrank.com/challenges/incorrect-regex) | Easy | [Solution](https://github.com/anishLearnsToCode/hackerrank-python/blob/master/errors-and-exceptions/incorrect-regex.py) |
 
 
 ### Classes
