@@ -174,6 +174,22 @@ The Python Domain is further Divided into the following sub-domains.
 
 
 ### Regex and Parsing
-### Python Functionals
 | Problem | Difficulty | Solution Link |
 |---------|------------|---------------|
+| [Detect Floating Point Number](https://www.hackerrank.com/challenges/introduction-to-regex) | Easy | |
+| [Re.split()](https://www.hackerrank.com/challenges/re-split) | Easy | |
+| [Group(), Groups() and Groupdict()](https://www.hackerrank.com/challenges/re-group-groups) | Easy | |
+| [Re.findall() & Re.finditer()](https://www.hackerrank.com/challenges/re-findall-re-finditer) | Easy | |
+| [Re.start() and Re.end()](https://www.hackerrank.com/challenges/re-start-re-end) | Easy | |
+| [Regex Substitution](https://www.hackerrank.com/challenges/re-sub-regex-substitution) | Medium | |
+| [Validating Roman Numerals](https://www.hackerrank.com/challenges/validate-a-roman-number) | Easy | |
+| [Validating Phone Numbers](https://www.hackerrank.com/challenges/validating-the-phone-number) | Easy | |
+| [Validating and Parsing Email Addresses](https://www.hackerrank.com/challenges/validating-named-email-addresses) | Easy | |
+| [Hex Color Code](https://www.hackerrank.com/challenges/hex-color-code) | Easy | |
+| [HTML Parser - Part 1](https://www.hackerrank.com/challenges/html-parser-part-1) | Easy | |
+| [HTML Parser - Part 2](https://www.hackerrank.com/challenges/html-parser-part-2) | Easy | |
+| [Detect HTML Tags, Attributes and Attribute Values](https://www.hackerrank.com/challenges/detect-html-tags-attributes-and-attribute-values) | Easy | |
+| [Validating UID](https://www.hackerrank.com/challenges/validating-uid) | Easy | |
+| [Validating Credit Card Numbers](https://www.hackerrank.com/challenges/validating-credit-card-number) | Medium | |
+| [Validating Postal Codes](https://www.hackerrank.com/challenges/validating-postalcode) | Hard | |
+| [Matrix Script](https://www.hackerrank.com/challenges/matrix-script) | Easy | |
