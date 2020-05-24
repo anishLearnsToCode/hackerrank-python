@@ -184,7 +184,7 @@ The Python Domain is further Divided into the following sub-domains.
 | [Regex Substitution](https://www.hackerrank.com/challenges/re-sub-regex-substitution) | Medium | [Solution](https://github.com/anishLearnsToCode/hackerrank-python/blob/master/regex-and-parsing/regex-substitution.py) |
 | [Validating Roman Numerals](https://www.hackerrank.com/challenges/validate-a-roman-number) | Easy | [Solution](https://github.com/anishLearnsToCode/hackerrank-python/blob/master/regex-and-parsing/validating-roman-numerals.py) |
 | [Validating Phone Numbers](https://www.hackerrank.com/challenges/validating-the-phone-number) | Easy | [Solution](https://github.com/anishLearnsToCode/hackerrank-python/blob/master/regex-and-parsing/validating-phone-numbers.py) |
-| [Validating and Parsing Email Addresses](https://www.hackerrank.com/challenges/validating-named-email-addresses) | Easy | |
+| [Validating and Parsing Email Addresses](https://www.hackerrank.com/challenges/validating-named-email-addresses) | Easy | [Solution](https://github.com/anishLearnsToCode/hackerrank-python/blob/master/regex-and-parsing/validating-parsing-email-address.py) |
 | [Hex Color Code](https://www.hackerrank.com/challenges/hex-color-code) | Easy | |
 | [HTML Parser - Part 1](https://www.hackerrank.com/challenges/html-parser-part-1) | Easy | |
 | [HTML Parser - Part 2](https://www.hackerrank.com/challenges/html-parser-part-2) | Easy | |
