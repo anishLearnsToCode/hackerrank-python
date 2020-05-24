@@ -190,6 +190,6 @@ The Python Domain is further Divided into the following sub-domains.
 | [HTML Parser - Part 2](https://www.hackerrank.com/challenges/html-parser-part-2) | Easy | [Solution](https://github.com/anishLearnsToCode/hackerrank-python/blob/master/regex-and-parsing/html-parser-part-2.py) |
 | [Detect HTML Tags, Attributes and Attribute Values](https://www.hackerrank.com/challenges/detect-html-tags-attributes-and-attribute-values) | Easy | [Solution](https://github.com/anishLearnsToCode/hackerrank-python/blob/master/regex-and-parsing/detect-html-tags-attributes.py) |
 | [Validating UID](https://www.hackerrank.com/challenges/validating-uid) | Easy | [Solution](https://github.com/anishLearnsToCode/hackerrank-python/blob/master/regex-and-parsing/validating-uid.py) |
-| [Validating Credit Card Numbers](https://www.hackerrank.com/challenges/validating-credit-card-number) | Medium | |
+| [Validating Credit Card Numbers](https://www.hackerrank.com/challenges/validating-credit-card-number) | Medium | [Solution](https://github.com/anishLearnsToCode/hackerrank-python/blob/master/regex-and-parsing/validating-credit-card-numbers.py) |
 | [Validating Postal Codes](https://www.hackerrank.com/challenges/validating-postalcode) | Hard | |
 | [Matrix Script](https://www.hackerrank.com/challenges/matrix-script) | Easy | |
