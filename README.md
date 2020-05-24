@@ -200,3 +200,10 @@ The Python Domain is further Divided into the following sub-domains.
 |---------|------------|---------------|
 | [XML 1 - Find the Score](https://www.hackerrank.com/challenges/xml-1-find-the-score) | Easy | |
 | [XML 2 - Find the Maximum Depth](https://www.hackerrank.com/challenges/xml2-find-the-maximum-depth) | Easy | |
+
+
+### Closures and Decorators
+| Problem | Difficulty | Solution Link |
+|---------|------------|---------------|
+| [Standardize Mobile Numbers Using Decorators](https://www.hackerrank.com/challenges/standardize-mobile-number-using-decorators) | Easy | |
+| [Decorators 2 - Name Directory](https://www.hackerrank.com/challenges/decorators-2-name-directory) | Easy | |
