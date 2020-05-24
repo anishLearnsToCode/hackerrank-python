@@ -188,7 +188,7 @@ The Python Domain is further Divided into the following sub-domains.
 | [Hex Color Code](https://www.hackerrank.com/challenges/hex-color-code) | Easy | [Solution](https://github.com/anishLearnsToCode/hackerrank-python/blob/master/regex-and-parsing/hex-color-code.py) |
 | [HTML Parser - Part 1](https://www.hackerrank.com/challenges/html-parser-part-1) | Easy | [Solution](https://github.com/anishLearnsToCode/hackerrank-python/blob/master/regex-and-parsing/html-parser-part-1.py) |
 | [HTML Parser - Part 2](https://www.hackerrank.com/challenges/html-parser-part-2) | Easy | [Solution](https://github.com/anishLearnsToCode/hackerrank-python/blob/master/regex-and-parsing/html-parser-part-2.py) |
-| [Detect HTML Tags, Attributes and Attribute Values](https://www.hackerrank.com/challenges/detect-html-tags-attributes-and-attribute-values) | Easy | |
+| [Detect HTML Tags, Attributes and Attribute Values](https://www.hackerrank.com/challenges/detect-html-tags-attributes-and-attribute-values) | Easy | [Solution](https://github.com/anishLearnsToCode/hackerrank-python/blob/master/regex-and-parsing/detect-html-tags-attributes.py) |
 | [Validating UID](https://www.hackerrank.com/challenges/validating-uid) | Easy | |
 | [Validating Credit Card Numbers](https://www.hackerrank.com/challenges/validating-credit-card-number) | Medium | |
 | [Validating Postal Codes](https://www.hackerrank.com/challenges/validating-postalcode) | Hard | |
