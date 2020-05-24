@@ -193,3 +193,10 @@ The Python Domain is further Divided into the following sub-domains.
 | [Validating Credit Card Numbers](https://www.hackerrank.com/challenges/validating-credit-card-number) | Medium | [Solution](https://github.com/anishLearnsToCode/hackerrank-python/blob/master/regex-and-parsing/validating-credit-card-numbers.py) |
 | [Validating Postal Codes](https://www.hackerrank.com/challenges/validating-postalcode) | Hard | [Solution](https://github.com/anishLearnsToCode/hackerrank-python/blob/master/regex-and-parsing/validating-postal-codes.py) |
 | [Matrix Script](https://www.hackerrank.com/challenges/matrix-script) | Easy | [Solution](https://github.com/anishLearnsToCode/hackerrank-python/blob/master/regex-and-parsing/matrix-script.py) |
+
+
+### XML
+| Problem | Difficulty | Solution Link |
+|---------|------------|---------------|
+| [XML 1 - Find the Score](https://www.hackerrank.com/challenges/xml-1-find-the-score) | Easy | |
+| [XML 2 - Find the Maximum Depth](https://www.hackerrank.com/challenges/xml2-find-the-maximum-depth) | Easy | |
