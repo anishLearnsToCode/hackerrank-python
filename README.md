@@ -176,7 +176,7 @@ The Python Domain is further Divided into the following sub-domains.
 ### Regex and Parsing
 | Problem | Difficulty | Solution Link |
 |---------|------------|---------------|
-| [Detect Floating Point Number](https://www.hackerrank.com/challenges/introduction-to-regex) | Easy | |
+| [Detect Floating Point Number](https://www.hackerrank.com/challenges/introduction-to-regex) | Easy | [Solution](https://github.com/anishLearnsToCode/hackerrank-python/blob/master/regex-and-parsing/detect-floating-point-numbers.py) |
 | [Re.split()](https://www.hackerrank.com/challenges/re-split) | Easy | |
 | [Group(), Groups() and Groupdict()](https://www.hackerrank.com/challenges/re-group-groups) | Easy | |
 | [Re.findall() & Re.finditer()](https://www.hackerrank.com/challenges/re-findall-re-finditer) | Easy | |
