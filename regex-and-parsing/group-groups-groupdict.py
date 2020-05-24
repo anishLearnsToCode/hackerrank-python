@@ -4,4 +4,4 @@ import re
 
 pattern = r'([a-zA-Z0-9])\1+'
 match = re.search(pattern, input().strip())
-print(match.groups() if match else -1)
+print(match.groups()[0] if match else -1)
