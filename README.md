@@ -199,7 +199,7 @@ The Python Domain is further Divided into the following sub-domains.
 | Problem | Difficulty | Solution Link |
 |---------|------------|---------------|
 | [XML 1 - Find the Score](https://www.hackerrank.com/challenges/xml-1-find-the-score) | Easy | [Solution](https://github.com/anishLearnsToCode/hackerrank-python/blob/master/xml/xml-1-find-the-score.py) |
-| [XML 2 - Find the Maximum Depth](https://www.hackerrank.com/challenges/xml2-find-the-maximum-depth) | Easy | |
+| [XML 2 - Find the Maximum Depth](https://www.hackerrank.com/challenges/xml2-find-the-maximum-depth) | Easy | [Solution](https://github.com/anishLearnsToCode/hackerrank-python/blob/master/xml/xml-2-find-max-depth.py) |
 
 
 ### Closures and Decorators
