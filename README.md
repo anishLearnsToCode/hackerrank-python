@@ -181,7 +181,7 @@ The Python Domain is further Divided into the following sub-domains.
 | [Group(), Groups() and Groupdict()](https://www.hackerrank.com/challenges/re-group-groups) | Easy | [Solution](https://github.com/anishLearnsToCode/hackerrank-python/blob/master/regex-and-parsing/group-groups-groupdict.py) |
 | [Re.findall() & Re.finditer()](https://www.hackerrank.com/challenges/re-findall-re-finditer) | Easy | [Solution](https://github.com/anishLearnsToCode/hackerrank-python/blob/master/regex-and-parsing/re-findall-and-finditer.py) |
 | [Re.start() and Re.end()](https://www.hackerrank.com/challenges/re-start-re-end) | Easy | [Solution](https://github.com/anishLearnsToCode/hackerrank-python/blob/master/regex-and-parsing/re-start-end.py) |
-| [Regex Substitution](https://www.hackerrank.com/challenges/re-sub-regex-substitution) | Medium | |
+| [Regex Substitution](https://www.hackerrank.com/challenges/re-sub-regex-substitution) | Medium | [Solution](https://github.com/anishLearnsToCode/hackerrank-python/blob/master/regex-and-parsing/regex-substitution.py) |
 | [Validating Roman Numerals](https://www.hackerrank.com/challenges/validate-a-roman-number) | Easy | |
 | [Validating Phone Numbers](https://www.hackerrank.com/challenges/validating-the-phone-number) | Easy | |
 | [Validating and Parsing Email Addresses](https://www.hackerrank.com/challenges/validating-named-email-addresses) | Easy | |
