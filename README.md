@@ -179,8 +179,8 @@ The Python Domain is further Divided into the following sub-domains.
 | [Detect Floating Point Number](https://www.hackerrank.com/challenges/introduction-to-regex) | Easy | [Solution](https://github.com/anishLearnsToCode/hackerrank-python/blob/master/regex-and-parsing/detect-floating-point-numbers.py) |
 | [Re.split()](https://www.hackerrank.com/challenges/re-split) | Easy | [Solution](https://github.com/anishLearnsToCode/hackerrank-python/blob/master/regex-and-parsing/re-split.py) |
 | [Group(), Groups() and Groupdict()](https://www.hackerrank.com/challenges/re-group-groups) | Easy | [Solution](https://github.com/anishLearnsToCode/hackerrank-python/blob/master/regex-and-parsing/group-groups-groupdict.py) |
-| [Re.findall() & Re.finditer()](https://www.hackerrank.com/challenges/re-findall-re-finditer) | Easy | |
-| [Re.start() and Re.end()](https://www.hackerrank.com/challenges/re-start-re-end) | Easy | |
+| [Re.findall() & Re.finditer()](https://www.hackerrank.com/challenges/re-findall-re-finditer) | Easy | [Solution](https://github.com/anishLearnsToCode/hackerrank-python/blob/master/regex-and-parsing/re-findall-and-finditer.py) |
+| [Re.start() and Re.end()](https://www.hackerrank.com/challenges/re-start-re-end) | Easy | [Solution](https://github.com/anishLearnsToCode/hackerrank-python/blob/master/regex-and-parsing/re-start-end.py) |
 | [Regex Substitution](https://www.hackerrank.com/challenges/re-sub-regex-substitution) | Medium | |
 | [Validating Roman Numerals](https://www.hackerrank.com/challenges/validate-a-roman-number) | Easy | |
 | [Validating Phone Numbers](https://www.hackerrank.com/challenges/validating-the-phone-number) | Easy | |
