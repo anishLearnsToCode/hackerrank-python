@@ -187,7 +187,7 @@ The Python Domain is further Divided into the following sub-domains.
 | [Validating and Parsing Email Addresses](https://www.hackerrank.com/challenges/validating-named-email-addresses) | Easy | [Solution](https://github.com/anishLearnsToCode/hackerrank-python/blob/master/regex-and-parsing/validating-parsing-email-address.py) |
 | [Hex Color Code](https://www.hackerrank.com/challenges/hex-color-code) | Easy | [Solution](https://github.com/anishLearnsToCode/hackerrank-python/blob/master/regex-and-parsing/hex-color-code.py) |
 | [HTML Parser - Part 1](https://www.hackerrank.com/challenges/html-parser-part-1) | Easy | [Solution](https://github.com/anishLearnsToCode/hackerrank-python/blob/master/regex-and-parsing/html-parser-part-1.py) |
-| [HTML Parser - Part 2](https://www.hackerrank.com/challenges/html-parser-part-2) | Easy | |
+| [HTML Parser - Part 2](https://www.hackerrank.com/challenges/html-parser-part-2) | Easy | [Solution](https://github.com/anishLearnsToCode/hackerrank-python/blob/master/regex-and-parsing/html-parser-part-2.py) |
 | [Detect HTML Tags, Attributes and Attribute Values](https://www.hackerrank.com/challenges/detect-html-tags-attributes-and-attribute-values) | Easy | |
 | [Validating UID](https://www.hackerrank.com/challenges/validating-uid) | Easy | |
 | [Validating Credit Card Numbers](https://www.hackerrank.com/challenges/validating-credit-card-number) | Medium | |
