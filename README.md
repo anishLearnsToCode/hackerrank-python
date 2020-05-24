@@ -191,5 +191,5 @@ The Python Domain is further Divided into the following sub-domains.
 | [Detect HTML Tags, Attributes and Attribute Values](https://www.hackerrank.com/challenges/detect-html-tags-attributes-and-attribute-values) | Easy | [Solution](https://github.com/anishLearnsToCode/hackerrank-python/blob/master/regex-and-parsing/detect-html-tags-attributes.py) |
 | [Validating UID](https://www.hackerrank.com/challenges/validating-uid) | Easy | [Solution](https://github.com/anishLearnsToCode/hackerrank-python/blob/master/regex-and-parsing/validating-uid.py) |
 | [Validating Credit Card Numbers](https://www.hackerrank.com/challenges/validating-credit-card-number) | Medium | [Solution](https://github.com/anishLearnsToCode/hackerrank-python/blob/master/regex-and-parsing/validating-credit-card-numbers.py) |
-| [Validating Postal Codes](https://www.hackerrank.com/challenges/validating-postalcode) | Hard | |
+| [Validating Postal Codes](https://www.hackerrank.com/challenges/validating-postalcode) | Hard | [Solution](https://github.com/anishLearnsToCode/hackerrank-python/blob/master/regex-and-parsing/validating-postal-codes.py) |
 | [Matrix Script](https://www.hackerrank.com/challenges/matrix-script) | Easy | |
