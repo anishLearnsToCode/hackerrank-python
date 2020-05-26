@@ -213,7 +213,7 @@ The Python Domain is further Divided into the following sub-domains.
 | Problem | Difficulty | Solution Link |
 |---------|------------|---------------|
 | [Arrays](https://www.hackerrank.com/challenges/np-arrays) | Easy | [Solution](https://github.com/anishLearnsToCode/hackerrank-python/blob/master/numpy-python/arrays.py) |
-| [Shape and Reshape](https://www.hackerrank.com/challenges/np-shape-reshape) | Easy | |
+| [Shape and Reshape](https://www.hackerrank.com/challenges/np-shape-reshape) | Easy | [Solution](https://github.com/anishLearnsToCode/hackerrank-python/blob/master/numpy-python/shape-and-reshape.py) |
 | [Transpose and Flatten](https://www.hackerrank.com/challenges/np-transpose-and-flatten) | Easy | |
 | [Concatenate](https://www.hackerrank.com/challenges/np-concatenate) | Easy | |
 | [Zeroes and Ones](https://www.hackerrank.com/challenges/np-zeros-and-ones) | Easy | |
