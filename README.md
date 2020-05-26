@@ -206,4 +206,4 @@ The Python Domain is further Divided into the following sub-domains.
 | Problem | Difficulty | Solution Link |
 |---------|------------|---------------|
 | [Standardize Mobile Numbers Using Decorators](https://www.hackerrank.com/challenges/standardize-mobile-number-using-decorators) | Easy | [Solution](https://github.com/anishLearnsToCode/hackerrank-python/blob/master/closures-and-decorators/standardize-mobile-numbers-using-decorator.py) |
-| [Decorators 2 - Name Directory](https://www.hackerrank.com/challenges/decorators-2-name-directory) | Easy | |
+| [Decorators 2 - Name Directory](https://www.hackerrank.com/challenges/decorators-2-name-directory) | Easy | [Solution](https://github.com/anishLearnsToCode/hackerrank-python/blob/master/closures-and-decorators/decorator-2-name-directory.py) |
