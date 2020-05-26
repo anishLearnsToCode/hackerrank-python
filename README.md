@@ -212,7 +212,7 @@ The Python Domain is further Divided into the following sub-domains.
 ### Numpy
 | Problem | Difficulty | Solution Link |
 |---------|------------|---------------|
-| [Arrays]() | Easy | |
+| [Arrays]() | Easy | [Solution](https://github.com/anishLearnsToCode/hackerrank-python/blob/master/numpy-python/arrays.py) |
 | [Shape and Reshape]() | Easy | |
 | [Transpose and Flatten]() | Easy | |
 | [Concatenate]() | Easy | |
