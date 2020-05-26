@@ -218,7 +218,7 @@ The Python Domain is further Divided into the following sub-domains.
 | [Concatenate](https://www.hackerrank.com/challenges/np-concatenate) | Easy | [Solution](https://github.com/anishLearnsToCode/hackerrank-python/blob/master/numpy-python/concatenate.py) |
 | [Zeroes and Ones](https://www.hackerrank.com/challenges/np-zeros-and-ones) | Easy | [Solution](https://github.com/anishLearnsToCode/hackerrank-python/blob/master/numpy-python/zeroes-and-ones.py) |
 | [Eye and Identity](https://www.hackerrank.com/challenges/np-eye-and-identity) | Easy | [Solution](https://github.com/anishLearnsToCode/hackerrank-python/blob/master/numpy-python/eye-and-identity.py) |
-| [Array Mathematics](https://www.hackerrank.com/challenges/np-array-mathematics) | Easy | |
+| [Array Mathematics](https://www.hackerrank.com/challenges/np-array-mathematics) | Easy | [Solution](https://github.com/anishLearnsToCode/hackerrank-python/blob/master/numpy-python/array-mathematics.py) |
 | [Floor, Ciel and Rint](https://www.hackerrank.com/challenges/floor-ceil-and-rint) | Easy | |
 | [Sum and Prod](https://www.hackerrank.com/challenges/np-sum-and-prod) | Easy | |
 | [Min and Max](https://www.hackerrank.com/challenges/np-min-and-max) | Easy | |
