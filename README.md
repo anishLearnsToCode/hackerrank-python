@@ -209,6 +209,27 @@ The Python Domain is further Divided into the following sub-domains.
 | [Decorators 2 - Name Directory](https://www.hackerrank.com/challenges/decorators-2-name-directory) | Easy | [Solution](https://github.com/anishLearnsToCode/hackerrank-python/blob/master/closures-and-decorators/decorator-2-name-directory.py) |
 
 
+### Numpy
+| Problem | Difficulty | Solution Link |
+|---------|------------|---------------|
+| [Arrays]() | Easy | |
+| [Shape and Reshape]() | Easy | |
+| [Transpose and Flatten]() | Easy | |
+| [Concatenate]() | Easy | |
+| [Zeroes and Ones]() | Easy | |
+| [Eye and Identity]() | Easy | |
+| [Array Mathematics]() | Easy | |
+| [Floor, Ciel and Rint]() | Easy | |
+| [Sum and Prod]() | Easy | |
+| [Min and Max]() | Easy | |
+| [Mean, var and Std]() | Easy | |
+| [Dot and Cross]() | Easy | |
+| [Inner and Outer]() | Easy | |
+| [Polynomials]() | Easy | |
+| [Linear Algebra]() | Easy | |
+
+
+
 ### Debugging
 | Problem | Difficulty | Solution Link |
 |---------|------------|---------------|
