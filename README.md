@@ -212,5 +212,5 @@ The Python Domain is further Divided into the following sub-domains.
 ### Debugging
 | Problem | Difficulty | Solution Link |
 |---------|------------|---------------|
-| [Word Score](https://www.hackerrank.com/challenges/words-score) | Medium | |
-| [Default Arguments](https://www.hackerrank.com/challenges/default-arguments) | Medium | |
+| [Word Score](https://www.hackerrank.com/challenges/words-score) | Medium | [Solution](https://github.com/anishLearnsToCode/hackerrank-python/blob/master/debugging/word-score.py) |
+| [Default Arguments](https://www.hackerrank.com/challenges/default-arguments) | Medium | [Solution](https://github.com/anishLearnsToCode/hackerrank-python/blob/master/debugging/default-arguments.py) |
