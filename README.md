@@ -212,21 +212,21 @@ The Python Domain is further Divided into the following sub-domains.
 ### Numpy
 | Problem | Difficulty | Solution Link |
 |---------|------------|---------------|
-| [Arrays]() | Easy | [Solution](https://github.com/anishLearnsToCode/hackerrank-python/blob/master/numpy-python/arrays.py) |
-| [Shape and Reshape]() | Easy | |
-| [Transpose and Flatten]() | Easy | |
-| [Concatenate]() | Easy | |
-| [Zeroes and Ones]() | Easy | |
-| [Eye and Identity]() | Easy | |
-| [Array Mathematics]() | Easy | |
-| [Floor, Ciel and Rint]() | Easy | |
-| [Sum and Prod]() | Easy | |
-| [Min and Max]() | Easy | |
-| [Mean, var and Std]() | Easy | |
-| [Dot and Cross]() | Easy | |
-| [Inner and Outer]() | Easy | |
-| [Polynomials]() | Easy | |
-| [Linear Algebra]() | Easy | |
+| [Arrays](https://www.hackerrank.com/challenges/np-arrays) | Easy | [Solution](https://github.com/anishLearnsToCode/hackerrank-python/blob/master/numpy-python/arrays.py) |
+| [Shape and Reshape](https://www.hackerrank.com/challenges/np-shape-reshape) | Easy | |
+| [Transpose and Flatten](https://www.hackerrank.com/challenges/np-transpose-and-flatten) | Easy | |
+| [Concatenate](https://www.hackerrank.com/challenges/np-concatenate) | Easy | |
+| [Zeroes and Ones](https://www.hackerrank.com/challenges/np-zeros-and-ones) | Easy | |
+| [Eye and Identity](https://www.hackerrank.com/challenges/np-eye-and-identity) | Easy | |
+| [Array Mathematics](https://www.hackerrank.com/challenges/np-array-mathematics) | Easy | |
+| [Floor, Ciel and Rint](https://www.hackerrank.com/challenges/floor-ceil-and-rint) | Easy | |
+| [Sum and Prod](https://www.hackerrank.com/challenges/np-sum-and-prod) | Easy | |
+| [Min and Max](https://www.hackerrank.com/challenges/np-min-and-max) | Easy | |
+| [Mean, var and Std](https://www.hackerrank.com/challenges/np-mean-var-and-std) | Easy | |
+| [Dot and Cross](https://www.hackerrank.com/challenges/np-dot-and-cross) | Easy | |
+| [Inner and Outer](https://www.hackerrank.com/challenges/np-inner-and-outer) | Easy | |
+| [Polynomials](https://www.hackerrank.com/challenges/np-polynomials) | Easy | |
+| [Linear Algebra](https://www.hackerrank.com/challenges/np-linear-algebra) | Easy | |
 
 
 
