@@ -21,7 +21,7 @@ on HackerRank:
 13. [Databases](https://www.hackerrank.com/domains/databases)
 14. [Regex](https://www.hackerrank.com/domains/regex)
 
-This repository contains solutions to the Java domain part of HackerRank. My
+This repository contains solutions to the Python domain part of HackerRank. My
 HackerRank profile can be viewed [here](https://www.hackerrank.com/anishviewer).
 
 I have also solved other domains on HackerRank that can be viewed at:
