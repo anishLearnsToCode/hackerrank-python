@@ -224,7 +224,7 @@ The Python Domain is further Divided into the following sub-domains.
 | [Min and Max](https://www.hackerrank.com/challenges/np-min-and-max) | Easy | [Solution](https://github.com/anishLearnsToCode/hackerrank-python/blob/master/numpy-python/min-max.py) |
 | [Mean, var and Std](https://www.hackerrank.com/challenges/np-mean-var-and-std) | Easy | [Solution](https://github.com/anishLearnsToCode/hackerrank-python/blob/master/numpy-python/mean-var-std.py) |
 | [Dot and Cross](https://www.hackerrank.com/challenges/np-dot-and-cross) | Easy | [Solution](https://github.com/anishLearnsToCode/hackerrank-python/blob/master/numpy-python/dot-cross.py) |
-| [Inner and Outer](https://www.hackerrank.com/challenges/np-inner-and-outer) | Easy | |
+| [Inner and Outer](https://www.hackerrank.com/challenges/np-inner-and-outer) | Easy | [Solution](https://github.com/anishLearnsToCode/hackerrank-python/blob/master/numpy-python/inner-outer.py) |
 | [Polynomials](https://www.hackerrank.com/challenges/np-polynomials) | Easy | |
 | [Linear Algebra](https://www.hackerrank.com/challenges/np-linear-algebra) | Easy | |
 
