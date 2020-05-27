@@ -221,7 +221,7 @@ The Python Domain is further Divided into the following sub-domains.
 | [Array Mathematics](https://www.hackerrank.com/challenges/np-array-mathematics) | Easy | [Solution](https://github.com/anishLearnsToCode/hackerrank-python/blob/master/numpy-python/array-mathematics.py) |
 | [Floor, Ciel and Rint](https://www.hackerrank.com/challenges/floor-ceil-and-rint) | Easy | [Solution](https://github.com/anishLearnsToCode/hackerrank-python/blob/master/numpy-python/floor-ciel-and-rint.py) |
 | [Sum and Prod](https://www.hackerrank.com/challenges/np-sum-and-prod) | Easy | [Solution](https://github.com/anishLearnsToCode/hackerrank-python/blob/master/numpy-python/sum-and-prod.py) |
-| [Min and Max](https://www.hackerrank.com/challenges/np-min-and-max) | Easy | |
+| [Min and Max](https://www.hackerrank.com/challenges/np-min-and-max) | Easy | [Solution](https://github.com/anishLearnsToCode/hackerrank-python/blob/master/numpy-python/min-max.py) |
 | [Mean, var and Std](https://www.hackerrank.com/challenges/np-mean-var-and-std) | Easy | |
 | [Dot and Cross](https://www.hackerrank.com/challenges/np-dot-and-cross) | Easy | |
 | [Inner and Outer](https://www.hackerrank.com/challenges/np-inner-and-outer) | Easy | |
