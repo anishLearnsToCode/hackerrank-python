@@ -7,7 +7,7 @@ The problem sets on HackerRank are divided in Domains & Tutorials, and the follo
 tutorials on HackerRank:
 
 <details>
-    <summary><h2>Domains</h2></summary>
+    <summary>Domains</summary>
     This is a dropdown with text!
 </details>
 
