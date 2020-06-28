@@ -50,25 +50,25 @@ The Python Domain is further Divided into the following sub-domains.
 
 ## Sub Domains & Problems (+Solutions) in the Python Domain
 Quick Links ⚡ : 
-[Introduction](#introduction) |
-[Basic Data Types](#basic-data-types) |
-[Strings](#strings) |
-[Sets](#sets) |
-[Math](#math) |
-[Itertools](#itertools) |
-[Collections](#collections) |
-[Data and Time](#date-and-time) |
-[Errors and Exceptions](#errors-and-exceptions) |
-[Classes](#classes) |
-[Built-Ins](#built-ins) |
-[Python Functionals](#python-functionals) |
-[Regex and Parsing](#regex-and-parsing) |
-[XML](#xml) |
-[Closures and Decorators](#closures-and-decorators) |
-[NumPy](#numpy) |
-[Debugging](#debugging) |
+[Introduction](#introduction-) |
+[Basic Data Types](#basic-data-types-) |
+[Strings](#strings-) |
+[Sets](#sets-) |
+[Math](#math-) |
+[Itertools](#itertools-) |
+[Collections](#collections-) |
+[Data and Time](#date-and-time-) |
+[Errors and Exceptions](#errors-and-exceptions-) |
+[Classes](#classes-) |
+[Built-Ins](#built-ins-) |
+[Python Functionals](#python-functionals-) |
+[Regex and Parsing](#regex-and-parsing-) |
+[XML](#xml-) |
+[Closures and Decorators](#closures-and-decorators-) |
+[NumPy](#numpy-) |
+[Debugging](#debugging-) |
 
-### Introduction [🔼](#sub-domains--problems-solutions-in-the-python-domain)
+### Introduction [👆](#sub-domains--problems-solutions-in-the-python-domain)
 | Problem | Difficulty | Solution Link |
 |---------|------------|---------------|
 | [Say "Hello World" With Python](https://www.hackerrank.com/challenges/py-hello-world) | Easy | [Solution](https://github.com/anishLearnsToCode/hackerrank-python/blob/master/introduction/SayHelloWorldWithPython.py) |
@@ -80,7 +80,7 @@ Quick Links ⚡ :
 | [Print Function](https://www.hackerrank.com/challenges/python-print) | Easy | [Solution](https://github.com/anishLearnsToCode/hackerrank-python/blob/master/introduction/PrintFunction.py) |
 
 
-### Basic Data Types [☝](#sub-domains--problems-solutions-in-the-python-domain)
+### Basic Data Types [👆](#sub-domains--problems-solutions-in-the-python-domain)
 | Problem | Difficulty | Solution Link |
 |---------|------------|---------------|
 | [List Comprehensions](https://www.hackerrank.com/challenges/list-comprehensions) | Easy | [Solution](https://github.com/anishLearnsToCode/hackerrank-python/blob/master/basic-data-types/ListComprehension.py) |
@@ -110,7 +110,7 @@ Quick Links ⚡ :
 | [Merge The Tools](https://www.hackerrank.com/challenges/merge-the-tools) | Medium | [Solution](https://github.com/anishLearnsToCode/hackerrank-python/blob/master/strings/merge-the-tools.py) |
 
 
-### Sets [⬆](#sub-domains--problems-solutions-in-the-python-domain)
+### Sets [👆](#sub-domains--problems-solutions-in-the-python-domain)
 | Problem | Difficulty | Solution Link |
 |---------|------------|---------------|
 | [Introduction to Sets](https://www.hackerrank.com/challenges/py-introduction-to-sets) | Easy | [Solution](https://github.com/anishLearnsToCode/hackerrank-python/blob/master/sets/introduction-to-sets.py) |
@@ -128,7 +128,7 @@ Quick Links ⚡ :
 | [Check Strict Superset](https://www.hackerrank.com/challenges/py-check-strict-superset) | Easy | [Solution](https://github.com/anishLearnsToCode/hackerrank-python/blob/master/sets/is-strict-superset.py) |
 
 
-### Math
+### Math [👆](#sub-domains--problems-solutions-in-the-python-domain)
 | Problem | Difficulty | Solution Link |
 |---------|------------|---------------|
 | [Polar Coordinates](https://www.hackerrank.com/challenges/polar-coordinates) | Easy | [Solution](https://github.com/anishLearnsToCode/hackerrank-python/blob/master/math/polar-coordinates.py) |
@@ -140,7 +140,7 @@ Quick Links ⚡ :
 | [Triangle Quest](https://www.hackerrank.com/challenges/python-quest-1) | Easy | [Solution](https://github.com/anishLearnsToCode/hackerrank-python/blob/master/math/triangle-quest.py) |
 
 
-### Itertools
+### Itertools [👆](#sub-domains--problems-solutions-in-the-python-domain)
 | Problem | Difficulty | Solution Link |
 |---------|------------|---------------|
 | [itertools.product()](https://www.hackerrank.com/challenges/itertools-product) | Easy | [Solution](https://github.com/anishLearnsToCode/hackerrank-python/blob/master/itertools/itertools-product.py) |
@@ -152,7 +152,7 @@ Quick Links ⚡ :
 | [Maximize It!](https://www.hackerrank.com/challenges/maximize-it) | Hard | [Solution](https://github.com/anishLearnsToCode/hackerrank-python/blob/master/itertools/maximize-it.py) |
 
 
-### Collections
+### Collections [👆](#sub-domains--problems-solutions-in-the-python-domain)
 | Problem | Difficulty | Solution Link |
 |---------|------------|---------------|
 | [collections.Counter()](https://www.hackerrank.com/challenges/collections-counter) | Easy | [Solution](https://github.com/anishLearnsToCode/hackerrank-python/blob/master/collections/collections-counter.py) |
@@ -165,28 +165,28 @@ Quick Links ⚡ :
 | [Piling Up!](https://www.hackerrank.com/challenges/piling-up) | Medium | [Solution](https://github.com/anishLearnsToCode/hackerrank-python/blob/master/collections/piling-up.py) |
 
 
-### Date and Time
+### Date and Time [👆](#sub-domains--problems-solutions-in-the-python-domain)
 | Problem | Difficulty | Solution Link |
 |---------|------------|---------------|
 | [Calender Module](https://www.hackerrank.com/challenges/calendar-module) | Easy | [Solution](https://github.com/anishLearnsToCode/hackerrank-python/blob/master/date-and-time/calendar-module.py) |
 | [Time Delta](https://www.hackerrank.com/challenges/python-time-delta) | Medium | [Solution](https://github.com/anishLearnsToCode/hackerrank-python/blob/master/date-and-time/time-delta.py) |
 
 
-### Errors and Exceptions
+### Errors and Exceptions [👆](#sub-domains--problems-solutions-in-the-python-domain)
 | Problem | Difficulty | Solution Link |
 |---------|------------|---------------|
 | [Exceptions](https://www.hackerrank.com/challenges/exceptions) | Easy | [Solution](https://github.com/anishLearnsToCode/hackerrank-python/blob/master/errors-and-exceptions/exceptions.py)  |
 | [Incorrect Regex](https://www.hackerrank.com/challenges/incorrect-regex) | Easy | [Solution](https://github.com/anishLearnsToCode/hackerrank-python/blob/master/errors-and-exceptions/incorrect-regex.py) |
 
 
-### Classes
+### Classes [👆](#sub-domains--problems-solutions-in-the-python-domain)
 | Problem | Difficulty | Solution Link |
 |---------|------------|---------------|
 | [Class 2 - Find the Torsional Angle](https://www.hackerrank.com/challenges/class-2-find-the-torsional-angle) | Easy | [Solution](https://github.com/anishLearnsToCode/hackerrank-python/blob/master/classes/class-2-find-the-torsional-angle.py) |
 | [Classes: Dealing with Complex Numbers](https://www.hackerrank.com/challenges/class-1-dealing-with-complex-numbers) | Medium | [Solution](https://github.com/anishLearnsToCode/hackerrank-python/blob/master/classes/dealing-with-complex-numbers.py) |
 
 
-### Built Ins
+### Built Ins [👆](#sub-domains--problems-solutions-in-the-python-domain)
 | Problem | Difficulty | Solution Link |
 |---------|------------|---------------|
 | [Zipped!](https://www.hackerrank.com/challenges/zipped) | Easy | [Solution](https://github.com/anishLearnsToCode/hackerrank-python/blob/master/built-ins/zipped.py) |
@@ -197,7 +197,7 @@ Quick Links ⚡ :
 | [ginortS](https://www.hackerrank.com/challenges/ginorts) | Medium | [Solution](https://github.com/anishLearnsToCode/hackerrank-python/blob/master/built-ins/ginortS.py) |
 
 
-### Python Functionals
+### Python Functionals [👆](#sub-domains--problems-solutions-in-the-python-domain)
 | Problem | Difficulty | Solution Link |
 |---------|------------|---------------|
 | [Map and Lambda Function](https://www.hackerrank.com/challenges/map-and-lambda-expression) | Easy | [Solution](https://github.com/anishLearnsToCode/hackerrank-python/blob/master/python-functions/map-and-lambda-functions.py) |
@@ -205,7 +205,7 @@ Quick Links ⚡ :
 | [Reduce Function](https://www.hackerrank.com/challenges/reduce-function) | Medium | [Solution](https://github.com/anishLearnsToCode/hackerrank-python/blob/master/python-functions/reduce-function.py) |
 
 
-### Regex and Parsing
+### Regex and Parsing [👆](#sub-domains--problems-solutions-in-the-python-domain)
 | Problem | Difficulty | Solution Link |
 |---------|------------|---------------|
 | [Detect Floating Point Number](https://www.hackerrank.com/challenges/introduction-to-regex) | Easy | [Solution](https://github.com/anishLearnsToCode/hackerrank-python/blob/master/regex-and-parsing/detect-floating-point-numbers.py) |
@@ -227,21 +227,21 @@ Quick Links ⚡ :
 | [Matrix Script](https://www.hackerrank.com/challenges/matrix-script) | Hard | [Solution](https://github.com/anishLearnsToCode/hackerrank-python/blob/master/regex-and-parsing/matrix-script.py) |
 
 
-### XML
+### XML [👆](#sub-domains--problems-solutions-in-the-python-domain)
 | Problem | Difficulty | Solution Link |
 |---------|------------|---------------|
 | [XML 1 - Find the Score](https://www.hackerrank.com/challenges/xml-1-find-the-score) | Easy | [Solution](https://github.com/anishLearnsToCode/hackerrank-python/blob/master/xml/xml-1-find-the-score.py) |
 | [XML 2 - Find the Maximum Depth](https://www.hackerrank.com/challenges/xml2-find-the-maximum-depth) | Easy | [Solution](https://github.com/anishLearnsToCode/hackerrank-python/blob/master/xml/xml-2-find-max-depth.py) |
 
 
-### Closures and Decorators
+### Closures and Decorators [👆](#sub-domains--problems-solutions-in-the-python-domain)
 | Problem | Difficulty | Solution Link |
 |---------|------------|---------------|
 | [Standardize Mobile Numbers Using Decorators](https://www.hackerrank.com/challenges/standardize-mobile-number-using-decorators) | Easy | [Solution](https://github.com/anishLearnsToCode/hackerrank-python/blob/master/closures-and-decorators/standardize-mobile-numbers-using-decorator.py) |
 | [Decorators 2 - Name Directory](https://www.hackerrank.com/challenges/decorators-2-name-directory) | Easy | [Solution](https://github.com/anishLearnsToCode/hackerrank-python/blob/master/closures-and-decorators/decorator-2-name-directory.py) |
 
 
-### Numpy
+### Numpy [👆](#sub-domains--problems-solutions-in-the-python-domain)
 | Problem | Difficulty | Solution Link |
 |---------|------------|---------------|
 | [Arrays](https://www.hackerrank.com/challenges/np-arrays) | Easy | [Solution](https://github.com/anishLearnsToCode/hackerrank-python/blob/master/numpy-python/arrays.py) |
@@ -262,7 +262,7 @@ Quick Links ⚡ :
 
 
 
-### Debugging
+### Debugging [👆](#sub-domains--problems-solutions-in-the-python-domain)
 | Problem | Difficulty | Solution Link |
 |---------|------------|---------------|
 | [Word Score](https://www.hackerrank.com/challenges/words-score) | Medium | [Solution](https://github.com/anishLearnsToCode/hackerrank-python/blob/master/debugging/word-score.py) |
