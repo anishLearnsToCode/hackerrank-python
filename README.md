@@ -26,31 +26,18 @@ tutorials on HackerRank:
     </ul>
 </details>
 
-## Domains
-1. [Algorithms](https://www.hackerrank.com/domains/algorithms)
-2. [Data Structures](https://www.hackerrank.com/domains/data-structures)
-3. [Mathematics](https://www.hackerrank.com/domains/mathematics) 
-4. [C](https://www.hackerrank.com/domains/c)
-5. [C++](https://www.hackerrank.com/domains/cpp)
-6. [Java](https://www.hackerrank.com/domains/java)
-7. [Python](https://www.hackerrank.com/domains/python)
-8. [Ruby](https://www.hackerrank.com/domains/ruby)
-9. [Linux Shell](https://www.hackerrank.com/domains/shell)
-10. [Functional Programming](https://www.hackerrank.com/domains/fp)
-11. [Artificial Intelligence](https://www.hackerrank.com/domains/ai)
-12. [SQL](https://www.hackerrank.com/domains/sql)
-13. [Databases](https://www.hackerrank.com/domains/databases)
-14. [Regex](https://www.hackerrank.com/domains/regex)
-
-## Tutorials
-1. [Interview Preparation Kit](https://www.hackerrank.com/interview) 
-2. [Learn To Code in 30 Days](https://www.hackerrank.com/domains/tutorials/30-days-of-code) 
-3. [10 Days of Statistics](https://www.hackerrank.com/domains/tutorials/10-days-of-statistics)
-4. [10 Days of Javascript](https://www.hackerrank.com/domains/tutorials/10-days-of-javascript) 
+<details>
+    <summary><b>Tutorials</b></summary>
+    <ul>
+        <li><a href="https://www.hackerrank.com/interview">Interview Preparation Kit</a></li>
+        <li><a href="https://www.hackerrank.com/domains/tutorials/30-days-of-code">30 Days of Code</a></li>
+        <li><a href="https://www.hackerrank.com/domains/tutorials/10-days-of-statistics">10 Days of Statistics</a></li>
+        <li><a href="https://www.hackerrank.com/domains/tutorials/10-days-of-javascript">10 Days of JavaScript</a></li>
+    </ul>
+</details>
 
 This repository contains solutions to the [Python domain](https://www.hackerrank.com/domains/python) 
-part of HackerRank. My
-HackerRank profile can be viewed [here](https://www.hackerrank.com/anishviewer).
+part of HackerRank. My HackerRank profile can be viewed [here](https://www.hackerrank.com/anishviewer).
 
 I have also solved other domains on HackerRank that can be viewed at:
 
