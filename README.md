@@ -80,7 +80,7 @@ Quick Links ⚡ :
 | [Print Function](https://www.hackerrank.com/challenges/python-print) | Easy | [Solution](https://github.com/anishLearnsToCode/hackerrank-python/blob/master/introduction/PrintFunction.py) |
 
 
-### Basic Data Types
+### Basic Data Types [⤴](#sub-domains--problems-solutions-in-the-python-domain)
 | Problem | Difficulty | Solution Link |
 |---------|------------|---------------|
 | [List Comprehensions](https://www.hackerrank.com/challenges/list-comprehensions) | Easy | [Solution](https://github.com/anishLearnsToCode/hackerrank-python/blob/master/basic-data-types/ListComprehension.py) |
@@ -91,7 +91,7 @@ Quick Links ⚡ :
 | [Tuples](https://www.hackerrank.com/challenges/python-tuples) | Easy | [Solution](https://github.com/anishLearnsToCode/hackerrank-python/blob/master/basic-data-types/tuples.py) |
 
 
-### Strings
+### Strings [🆙](#sub-domains--problems-solutions-in-the-python-domain)
 | Problem | Difficulty | Solution Link |
 |---------|------------|---------------|
 | [sWAP cASE](https://www.hackerrank.com/challenges/swap-case) | Easy | [Solution](https://github.com/anishLearnsToCode/hackerrank-python/blob/master/strings/swap-case.py) |
@@ -110,7 +110,7 @@ Quick Links ⚡ :
 | [Merge The Tools](https://www.hackerrank.com/challenges/merge-the-tools) | Medium | [Solution](https://github.com/anishLearnsToCode/hackerrank-python/blob/master/strings/merge-the-tools.py) |
 
 
-### Sets
+### Sets [⬆](#sub-domains--problems-solutions-in-the-python-domain)
 | Problem | Difficulty | Solution Link |
 |---------|------------|---------------|
 | [Introduction to Sets](https://www.hackerrank.com/challenges/py-introduction-to-sets) | Easy | [Solution](https://github.com/anishLearnsToCode/hackerrank-python/blob/master/sets/introduction-to-sets.py) |
