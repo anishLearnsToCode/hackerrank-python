@@ -9,8 +9,8 @@ tutorials on HackerRank:
 <details>
     <summary><b>Domains</b></summary>
     <ul>
-        <li>Test</li>
-        <li>Test</li>
+        <a href="https://www.hackerrank.com/domains/algorithms">Algorithms<a/>
+        <a href="https://www.hackerrank.com/domains/data-structures">Data Structures</a>
         <li>Test</li>
         <li>Test</li>
     </ul>
