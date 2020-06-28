@@ -80,7 +80,7 @@ Quick Links ⚡ :
 | [Print Function](https://www.hackerrank.com/challenges/python-print) | Easy | [Solution](https://github.com/anishLearnsToCode/hackerrank-python/blob/master/introduction/PrintFunction.py) |
 
 
-### Basic Data Types [⤴](#sub-domains--problems-solutions-in-the-python-domain)
+### Basic Data Types [☝](#sub-domains--problems-solutions-in-the-python-domain)
 | Problem | Difficulty | Solution Link |
 |---------|------------|---------------|
 | [List Comprehensions](https://www.hackerrank.com/challenges/list-comprehensions) | Easy | [Solution](https://github.com/anishLearnsToCode/hackerrank-python/blob/master/basic-data-types/ListComprehension.py) |
@@ -91,7 +91,7 @@ Quick Links ⚡ :
 | [Tuples](https://www.hackerrank.com/challenges/python-tuples) | Easy | [Solution](https://github.com/anishLearnsToCode/hackerrank-python/blob/master/basic-data-types/tuples.py) |
 
 
-### Strings [🆙](#sub-domains--problems-solutions-in-the-python-domain)
+### Strings [👆](#sub-domains--problems-solutions-in-the-python-domain)
 | Problem | Difficulty | Solution Link |
 |---------|------------|---------------|
 | [sWAP cASE](https://www.hackerrank.com/challenges/swap-case) | Easy | [Solution](https://github.com/anishLearnsToCode/hackerrank-python/blob/master/strings/swap-case.py) |
