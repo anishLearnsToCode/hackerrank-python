@@ -9,10 +9,20 @@ tutorials on HackerRank:
 <details>
     <summary><b>Domains</b></summary>
     <ul>
-        <a href="https://www.hackerrank.com/domains/algorithms">Algorithms<a/>
-        <a href="https://www.hackerrank.com/domains/data-structures">Data Structures</a>
-        <li>Test</li>
-        <li>Test</li>
+        <li><a href="https://www.hackerrank.com/domains/algorithms">Algorithms</a></li>
+        <li><a href="https://www.hackerrank.com/domains/data-structures">Data Structures</a></li>
+        <li><a href="https://www.hackerrank.com/domains/mathematics">Mathematics</a></li>
+        <li><a href="https://www.hackerrank.com/domains/c">C</a></li>
+        <li><a href="https://www.hackerrank.com/domains/cpp">C++</a></li>
+        <li><a href="https://www.hackerrank.com/domains/java">Java</a></li>
+        <li><a href="https://www.hackerrank.com/domains/python">Python</a></li>
+        <li><a href="https://www.hackerrank.com/domains/ruby">Ruby</a></li>
+        <li><a href="https://www.hackerrank.com/domains/shell">Linux Shell</a></li>
+        <li><a href="https://www.hackerrank.com/domains/fp">Functional Programming</a></li>
+        <li><a href="https://www.hackerrank.com/domains/ai">Artificial Intelligence</a></li>
+        <li><a href="https://www.hackerrank.com/domains/sql">SQL</a></li>
+        <li><a href="https://www.hackerrank.com/domains/databases">Databases</a></li>
+        <li><a href="https://www.hackerrank.com/domains/regex">Regex</a></li>
     </ul>
 </details>
 
