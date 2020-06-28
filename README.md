@@ -1,10 +1,15 @@
-# HackerRank Python Domain Solutions
+# HackerRank Python 🐍  Domain Solutions
 
 HackerRank is an online platform that offers programmers the ability to test their
 sills, practice and learn something new. 
 
 The problem sets on HackerRank are divided in Domains & Tutorials, and the following are the domains & 
 tutorials on HackerRank:
+
+<details>
+    <summary>## Domains</summary>
+    This is a dropdown with text!
+</details>
 
 ## Domains
 1. [Algorithms](https://www.hackerrank.com/domains/algorithms)
@@ -28,7 +33,8 @@ tutorials on HackerRank:
 3. [10 Days of Statistics](https://www.hackerrank.com/domains/tutorials/10-days-of-statistics)
 4. [10 Days of Javascript](https://www.hackerrank.com/domains/tutorials/10-days-of-javascript) 
 
-This repository contains solutions to the Python domain part of HackerRank. My
+This repository contains solutions to the [Python domain](https://www.hackerrank.com/domains/python) 
+part of HackerRank. My
 HackerRank profile can be viewed [here](https://www.hackerrank.com/anishviewer).
 
 I have also solved other domains on HackerRank that can be viewed at:
