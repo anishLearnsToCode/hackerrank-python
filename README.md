@@ -51,6 +51,24 @@ I have also solved other domains on HackerRank that can be viewed at:
 The Python Domain is further Divided into the following sub-domains. 
 
 ## Sub Domains & Problems (+Solutions) in the Python Domain
+Quick Links ⚡ : 
+[Introduction](#introduction) |
+[Basic Data Types](#basic-data-types) |
+[Strings](#strings) |
+[Sets](#sets) |
+[Math](#math) |
+[Itertools](#itertools) |
+[Collections](#collections) |
+[Data and Time](#date-and-time) |
+[Errors and Exceptions](#errors-and-exceptions) |
+[Classes](#classes) |
+[Built-Ins](#built-ins) |
+[Python Functionals](#python-functionals) |
+[Regex and Parsing](#regex-and-parsing) |
+[XML](#xml) |
+[Closures and Decorators](#closures-and-decorators) |
+[NumPy](#numpy) |
+[Debugging](#debugging) |
 
 ### Introduction
 | Problem | Difficulty | Solution Link |
