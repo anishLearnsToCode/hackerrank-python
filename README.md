@@ -8,7 +8,12 @@ tutorials on HackerRank:
 
 <details>
     <summary><b>Domains</b></summary>
-    This is a dropdown with text!
+    <ul>
+        <li>Test</li>
+        <li>Test</li>
+        <li>Test</li>
+        <li>Test</li>
+    </ul>
 </details>
 
 ## Domains
