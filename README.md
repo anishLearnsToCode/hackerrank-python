@@ -68,7 +68,7 @@ Quick Links ⚡ :
 [NumPy](#numpy) |
 [Debugging](#debugging) |
 
-### Introduction [🔝](#sub-domains--problems-solutions-in-the-python-domain)
+### Introduction [🔼](#sub-domains--problems-solutions-in-the-python-domain)
 | Problem | Difficulty | Solution Link |
 |---------|------------|---------------|
 | [Say "Hello World" With Python](https://www.hackerrank.com/challenges/py-hello-world) | Easy | [Solution](https://github.com/anishLearnsToCode/hackerrank-python/blob/master/introduction/SayHelloWorldWithPython.py) |
