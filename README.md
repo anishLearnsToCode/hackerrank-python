@@ -1,14 +1,7 @@
 # HackerRank Python 🐍  Domain Solutions
 
-![HitCount](http://hits.dwyl.com/anishLearnsToCode/hackerrank-python.svg)
-![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)
 ![problems-solved](https://img.shields.io/badge/Problems%20Solved-115/115-1abc9c.svg)
-[![license](https://img.shields.io/badge/LICENSE-MIT-<COLOR>.svg)](LICENSE)
-![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)
-[![hackerrank-java](https://img.shields.io/badge/hackerrank-java-1f72ff.svg)](https://github.com/anishLearnsToCode/hackerrank-java)
-[![hackerrank-ds](https://img.shields.io/badge/hackerrank-Data%20Structures-1f72ff.svg)](https://github.com/anishLearnsToCode/hackerrank-data-structures)
-[![hackerrank-algo](https://img.shields.io/badge/hackerrank-algorithms-1f72ff.svg)](https://github.com/anishLearnsToCode/hackerrank-algorithms)
-[![hackerrank-interview-prep](https://img.shields.io/badge/hackerrank-Interview%20Preparation%20Kit-1f72ff.svg)](https://github.com/anishLearnsToCode/hackerrank-interview-preparation-kit)
+[![cp](https://img.shields.io/badge/also%20see-Competitve%20Programming-1f72ff.svg)](https://github.com/anishLearnsToCode/competitive-programming)
 
 HackerRank is an online platform that offers programmers the ability to test their
 sills, practice and learn something new. The problem sets on HackerRank are divided in Domains & Tutorials, 
